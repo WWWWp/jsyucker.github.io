@@ -5,17 +5,17 @@
   excerpt: "信息可视化作品"
   image: 300x200.gif
   
-  title:  作品集(Web)
+- title:  作品集(Web)
   url: /portfolio/ 
   excerpt: "作品集(web)"
   image: 300x200.gif
   
-  title:  信息可视化笔记 分类
+- title:  信息可视化笔记 分类
   url: /posts/infovis/  
   excerpt: "信息可视化笔记(web)"
   image: 300x200.gif
   
-  title:  web笔记 分类
+- title:  web笔记 分类
   url: /posts/rwd/   
   excerpt: "web笔记"
   image: 300x200.gif
