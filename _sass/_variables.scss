@@ -33,7 +33,7 @@ $black                        : #000;
 
 $body-color                  	: #ebebeb;
 
-$text-color                  	: #313130;
+$text-color                  	: #f74425;
 $caption-color                : mix($white, $text-color, 25%);
 
 $base-color                  	: $oxfordblue;
@@ -102,7 +102,7 @@ $sliding-menu-animation            : all 500ms cubic-bezier(.86,.01,.77,.78);
    ========================================================================== */
 
 $badge-background              : $primary-color;
-$badge-dark-color              : #f33;
+$badge-dark-color              : $black;
 $badge-danger-color            : $danger-color;
 $badge-info-color              : $info-color;
 $badge-warning-color           : $warning-color;
