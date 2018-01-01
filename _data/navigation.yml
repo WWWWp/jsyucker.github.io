@@ -3,19 +3,19 @@
 - title: 信息可视化作品集
   url: /infovis/
   excerpt: "信息可视化作品"
-  image: 300x200.gif
+  image: visualization.jpg
   
 - title:  作品集(Web)
   url: /portfolio/ 
   excerpt: "作品集(web)"
-  image: 300x200.gif
+  image: HLML.jpg
   
 - title:  信息可视化笔记 分类
   url: /posts/infovis/  
   excerpt: "信息可视化笔记(web)"
-  image: 300x200.gif
+  image: 信息可视化笔记.gif
   
 - title:  web笔记 分类
   url: /posts/rwd/   
   excerpt: "web笔记"
-  image: 300x200.gif
+  image: web笔记.gif
