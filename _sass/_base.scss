@@ -9,8 +9,9 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
+	background-image: url('/images/background.jpg')
 	@include font-size(16);
-	background-image: url('/images/background.png')
+	
 }
 
 p {
