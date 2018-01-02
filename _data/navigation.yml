@@ -11,11 +11,11 @@
   image: web.jpg
   
 - title:  信息可视化笔记 
-  url: /posts/infovis/2017-01-01-信息可视化笔记 
+  url: /posts/infovis/ 
   excerpt: "信息可视化笔记(web)"
   image: 信息可视化笔记.gif
   
 - title:  web笔记 
-  url: /posts/rwd/2017-01-01-web笔记  
+  url: /posts/rwd/  
   excerpt: "web笔记"
   image: web笔记.gif
