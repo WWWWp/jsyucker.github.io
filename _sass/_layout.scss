@@ -273,10 +273,10 @@
 	img {
 		width: 100%;
 		@include media($medium) {
- +			width: 50%;
- +		}
- +		@include media($large) {
- +			width: 33%;
+  			width: 50%;
+  		}
+  		@include media($large) {
+  			width: 33%;
 		}
 	}
 }
