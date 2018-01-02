@@ -1,7 +1,8 @@
 ---
 layout: archive
 permalink: /
-title: "作品集"
+title: "web笔记"
+excerpt: "web笔记"
 tags: []
 image: 
     feature: web.jpg
@@ -15,4 +16,4 @@ image:
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 portfolio 的列出來-->
+</div><!-- /.tiles 把所有categories 有 posts rwd 的列出來-->
