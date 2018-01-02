@@ -1,19 +1,20 @@
 ---
 layout: archive
-permalink: /
 title: "web笔记"
+date: 2018-01-02
+modified:
 excerpt: "web笔记"
 tags: []
 image: 
-    feature: web.jpg
-    teaser:
+  feature: web.jpg
+  teaser:
 ---
 
-
+我不想做笔记啊
 
 
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 posts rwd 的列出來-->
+</div><!-- /.tiles 把所有categories 有 portfolio 的列出來-->
