@@ -73,16 +73,20 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background: $oxfordblue;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
 			}
+			&:hover {
+  				color: $oxfordblue;
+  				background-color: $lemon;
+  			}
 		}
 	}
 }
-
+			
 /* Top menu navigation */
 
 .top-menu {
