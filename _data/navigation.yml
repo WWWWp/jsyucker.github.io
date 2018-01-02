@@ -10,12 +10,12 @@
   excerpt: "作品集(web)"
   image: web.jpg
   
-- title:  信息可视化笔记 分类
-  url: /posts/infovis/  
+- title:  信息可视化笔记 
+  url: /posts/infovis/2017-01-01-信息可视化笔记 
   excerpt: "信息可视化笔记(web)"
   image: 信息可视化笔记.gif
   
-- title:  web笔记 分类
-  url: /posts/rwd/   
+- title:  web笔记 
+  url: /posts/rwd/2017-01-01-web笔记  
   excerpt: "web笔记"
   image: web笔记.gif
