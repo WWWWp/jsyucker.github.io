@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "期中可视化"
+title:  "期末可视化"
 date:   2018-01-02 
 categories: /infovis/
 image:
