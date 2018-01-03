@@ -95,7 +95,7 @@
     -moz-transform: rotate(0deg);
     -webkit-transform: rotate(0deg);
     -o-transform: rotate(0deg);
-    border-radius: 4% 80% 0% 60%;
+    border-radius: 40% 80% 0% 60%;
     /*transition: all 1s;*/
      /*transition: transform 1s,left 1s;*/
 }
@@ -107,7 +107,7 @@
     -moz-transform: rotate(0deg);
     -webkit-transform: rotate(0deg);
     -o-transform: rotate(0deg);
-    border-radius: 80% 50% 60% 0%;
+    border-radius: 80% 40% 60% 0%;
     /*transition: transform 1s,right 1s;*/
 }
 /*眼睛*/
