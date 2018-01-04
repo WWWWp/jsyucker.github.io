@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: "可视化笔记"
-date: 2018-1-1T14:25:45-04:00
+date: 2018-01-04
 modified:
 excerpt: "我要留校"
 tags: []
 image: 
-  feature: web.jpg
+  feature: visualization.jpg
   teaser:
 ---
 

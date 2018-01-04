@@ -4,7 +4,7 @@ title:  "期末可视化"
 excerpt："就两个"
 tags: []
 date:   2018-01-02 
-categories: infovis
+
 image:
   teaser: visualization.jpg
   feature: visualization.jpg

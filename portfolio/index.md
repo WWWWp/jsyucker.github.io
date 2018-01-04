@@ -1,7 +1,7 @@
 ---
-layout: article
+layout: archive
 title: "web笔记"
-date: 2018-01-02
+date: 2018-01-04
 modified:
 excerpt: 
 tags: []
