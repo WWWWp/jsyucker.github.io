@@ -1,15 +1,18 @@
 ---
 layout: article
 title:  "期末可视化"
+excerpt："就两个"
+tags: []
 date:   2018-01-02 
-categories: /infovis/
+categories: infovis
 image:
   teaser: visualization.jpg
   feature: visualization.jpg
 ---
 
-[可视化网页]
 
-
-
-[可视化网页]: https://github.com/jsyucker/jsyucker.github.io/blob/master/infovis/index.html
+<div class="tiles">
+{% for post in site.categories.infovis %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles 把所有categories 有 infovis 的列出来-->
