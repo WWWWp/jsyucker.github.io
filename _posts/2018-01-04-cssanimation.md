@@ -12,7 +12,7 @@ image:
 
 ## 作品
 
-- [my work](https://jsyucker.github.io/portfolio/lineargradient/index.html)
+- [my work](https://jsyucker.github.io/portfolio/cssanimation/index.html)
 
 
 ## 方块移动
