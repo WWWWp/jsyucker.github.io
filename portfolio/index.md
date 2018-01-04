@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: article
 title: "web笔记"
 date: 2018-01-04
 modified:
@@ -7,10 +7,10 @@ excerpt:
 tags: []
 image: 
   feature: web.jpg
-  teaser:
+  teaser: web.jpg
 ---
 
-我不想做笔记啊
+
 
 
 <div class="tiles">
