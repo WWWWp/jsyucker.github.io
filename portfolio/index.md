@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: article
 title: "web笔记"
 date: 2018-01-02
 modified:
