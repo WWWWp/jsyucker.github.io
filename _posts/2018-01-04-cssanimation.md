@@ -12,11 +12,12 @@ image:
 
 ## 作品
 
-- <a href="https://jsyucker.github.io/portfolio/cssanimation/index.html" target="_blank">My work</a>
+[my work]
+
 
 ## 方块移动
 
 
-
+[my work]：https://jsyucker.github.io/portfolio/cssanimation/index.html
 
 
