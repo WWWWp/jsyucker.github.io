@@ -12,7 +12,7 @@ image:
 
 ## 作品
 
-- <a href="https://jsyucker.github.io/portfolio/css-animation/index.html" target="_blank">My work</a>
+- <a href="https://jsyucker.github.io/portfolio/cssanimation/index.html" target="_blank">My work</a>
 
 ## 变形
 耳朵、嘴巴变形
