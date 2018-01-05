@@ -383,7 +383,7 @@
 }
 
 @media print {
-    #masthead, nav, button, html [type=button], .menu-screen {
+    #masthead, nav, a, button, html [type=button], .menu-screen {
         display: none;
     }
     html, body {
@@ -414,9 +414,7 @@
 	}
 
 
-	a::after {
-		
-	}
+
 		
     p {
 	    font-size: 0.625rem !important;		
