@@ -383,7 +383,7 @@
 }
 
 @media print {
-    #masthead, nav, a, button, html [type=button], .menu-screen {
+    #masthead, nav, button, html [type=button], .menu-screen {
         display: none;
     }
     html, body {

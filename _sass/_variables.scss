@@ -4,6 +4,9 @@
 
 /*
    Typography variables
+   結合簡書字型設置及常用之中文字型
+   http://www.jb51.net/css/67658.html
+   行距中文調大一點
    ========================================================================== */
 
 $base-font                   	: Kai,Kaiti SC,KaiTi,DFKai-SB,BiauKai,\\6977\4F53,\\6977\4F53_GB2312,Songti SC,Georgia,Times,"Times New Roman",serif;
@@ -20,8 +23,8 @@ $border-radius               	: 3px;
 /*
    Color variables
    Background : Oxford Blue #002147  http://encycolorpedia.cn/002147
-     奶油色／Cream #fffdd0
-     text-color: white
+   奶油色／Cream #fffdd0
+   text-color: white
    ========================================================================== */
 
 $white                        : #fff; 
@@ -29,17 +32,16 @@ $black                        : #000;
 $oxfordblue                   : #002147;
 $cream                        : #fffdd0;
 $lemon                        : #fff700;
-$black                        : #000;
 
 $body-color                  	: #ebebeb;
 
-$text-color                  	: #f74425;
+$text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
 $base-color                  	: $oxfordblue;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
-$link-color                  	: #f74425;
+$link-color                  	: #222;
 
 $primary-color               	: $oxfordblue;
 $success-color               	: #2ecc71;
