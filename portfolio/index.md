@@ -2,7 +2,7 @@
 layout: archive
 title: "网页设计作业作品集"
 image: 
-  feature: 300x200.gif
+  feature: web.jpg
   teaser:
 ---
 
