@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "web笔记"
+title: "网页作品"
 date: 2018-01-04
 modified:
 excerpt: 
